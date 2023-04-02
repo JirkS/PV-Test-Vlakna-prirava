@@ -1,0 +1,15 @@
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\bin\Debug\net6.0\VlaknaNaTest.exe
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\bin\Debug\net6.0\VlaknaNaTest.deps.json
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\bin\Debug\net6.0\VlaknaNaTest.runtimeconfig.json
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\bin\Debug\net6.0\VlaknaNaTest.dll
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\bin\Debug\net6.0\VlaknaNaTest.pdb
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.csproj.AssemblyReference.cache
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.AssemblyInfoInputs.cache
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.AssemblyInfo.cs
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.csproj.CoreCompileInputs.cache
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.dll
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\refint\VlaknaNaTest.dll
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.pdb
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\VlaknaNaTest.genruntimeconfig.cache
+D:\Jirik-work\C#\workspace\2022-23\VlaknaNaTest\VlaknaNaTest\obj\Debug\net6.0\ref\VlaknaNaTest.dll
